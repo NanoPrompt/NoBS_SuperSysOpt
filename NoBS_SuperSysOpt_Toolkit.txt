@@ -1,0 +1,13 @@
+NoBS_SuperSysOpt_Toolkit
+-------------------
+Version: 1.0
+Author: Prashant&Smita (Frisco TX)
+
+Usage:
+- Run system_boost.cmd monthly or after major installs
+- Use privacy_harden.ps1 after Windows updates
+- Run startup_audit.bat to identify slow boot contributors
+- Use driver_check.vbs quarterly to verify driver health
+
+Logs:
+All logs are saved in the /logs folder for audit and rollback purposes.

@@ -1,0 +1,8 @@
+SmitaSysOpt/
+│
+├── system_boost.cmd              # Full cleanup + performance boost
+├── privacy_harden.ps1            # Telemetry and tracking disablement
+├── startup_audit.bat             # Startup program and service audit
+├── driver_check.vbs              # Basic driver health scan
+├── README_SmitaSysOpt.txt        # Usage notes and version history
+└── logs/                         # Stores output logs from each run
